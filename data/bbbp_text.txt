@@ -1,0 +1,13 @@
+Blood-brain barrier permeability is an important property in drug discovery.
+
+The blood-brain barrier protects the central nervous system from harmful compounds.
+
+Compounds predicted as BBB permeable may reach the brain and exert neurological effects.
+
+Morgan fingerprints are circular molecular fingerprints widely used in cheminformatics and molecular machine learning.
+
+XGBoost is a gradient boosted decision tree algorithm commonly used for molecular property prediction.
+
+The BBBP dataset is a binary classification dataset used to predict blood-brain barrier permeability from molecular structure.
+
+RDKit is an open-source cheminformatics toolkit used for molecular descriptor calculation and fingerprint generation.
